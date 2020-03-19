@@ -8,40 +8,38 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Gondora's Tears                 # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: 这是一个用来回忆的小窝            # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  这里是一个个人博客，用来记录我个人的一些博文、日记、成长以及爱好。
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://www.nibelun.com'
 
-author: your_full_name                  # change to your full name
+author: Zeke Qin                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/myavatar.png   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: nibelun             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+#  username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Gondora's Tears                 # it will shows as the copyright owner in Footer
+  email: zeldaqzy@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    #- https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/nibelun       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/zeldaqzy
+    - https://www.linkedin.com/in/zeke-qin/
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+#google_site_verification: google_meta_tag_verification # change to your verification string
 
 #--------------------------
 
@@ -63,8 +61,8 @@ google_analytics:
 
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: false   # boolean type, the global switch for posts comments.
+  shortname: 'Dodo' # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
 # Prefer color scheme setting, available values:
@@ -76,7 +74,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: dark
 
 # boolean type, global switch for ToC in posts.
 toc: true

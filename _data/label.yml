@@ -1,19 +1,14 @@
 # The label text of site.
-#  v2.0
-#  https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT Licensed
-
 
 panel:
-  lastmod: "Recent Update"
-  trending_tags: "Trending Tags"
-  toc: "Contents"
+  lastmod: "近期更新"
+  trending_tags: "相关 Tags"
+  toc: "内容导航"
 
 post:
-  relate_posts: "Further Reading"
+  relate_posts: "也许你还对这些感兴趣"
   button:
-    next: Newer
-    previous: Older
+    next: 下一篇
+    previous: 前一篇
 
-search_hint: "Search"   # text show on search bar
+search_hint: "Hi there!"   # text show on search bar
