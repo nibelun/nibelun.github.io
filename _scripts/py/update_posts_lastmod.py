@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
@@ -26,7 +27,6 @@ import time
 
 from enum import Enum
 from ruamel.yaml import YAML
-
 from utils.common import get_yaml
 from utils.common import check_py_version
 
