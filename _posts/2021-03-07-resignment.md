@@ -1,5 +1,5 @@
 ---
-title: restrain
+title: resignment
 date: 2021-03-07 16:03:49 +0800
 categories: [diary]
 tags: [diary]
