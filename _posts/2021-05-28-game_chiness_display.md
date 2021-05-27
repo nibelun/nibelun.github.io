@@ -55,6 +55,8 @@ draw_text(x, y, "hellp");
 ![2021052801](/assets/img/post/2021052801.png)
 
 很是郁闷，我不知道发生了什么。期间我尝试过看论坛是否有类似的人遇到和我一样的问题，但是得到的回复都是使用 `font_add` 以及使用支持UTF8编码（GMS不支持UTF16）的字体，官方的文档中也并未提到类似case，其他搜索到的结果也说明得含糊不清。
+[japanese-font-in-game-maker](https://forum.yoyogames.com/index.php?threads/japanese-font-in-game-maker.46332/)
+
 几经尝试过依旧问题没有得到解决。直到我注意到字体设置里有regenerate和copy两个信息……
 ![2021052809](/assets/img/post/2021052809.png)
 
