@@ -1,5 +1,5 @@
 ---
-title: 【GMS】简单的文本渲染引擎
+title: 【GMS】简单的文本渲染引擎(1)
 date: 2021-05-29 06:00:00 +0800
 categories: [game]
 tags: [game]
