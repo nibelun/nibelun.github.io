@@ -91,7 +91,7 @@ function dialogue_prepare_cmd(_str) {
 ![2021053008](/assets/img/post/2021053008.png)
 
 纵向行数则会根据最大宽度，进行cmd重组，并在适当的位置主动插入换行符。
-注意，`string_width`的计算基于字体（类型与大小），因此在使用这个函数计算像素之前务必确保draw_set_font的设置I正确。
+注意，`string_width`的计算基于字体（类型与大小），因此在使用这个函数计算像素之前务必确保`draw_set_font`的设置I正确。
 P.S.：GML不支持多值返回，写起来代码避免不了有点难看……
 
 ```
