@@ -1,5 +1,5 @@
 ---
-title: 【GMS】文本乱码
+title: 【GMS】简单的文本渲染引擎-文本乱码
 date: 2021-05-28 05:06:00 +0800
 categories: [game]
 tags: [game]
