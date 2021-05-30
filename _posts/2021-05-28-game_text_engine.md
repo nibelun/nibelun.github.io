@@ -1,5 +1,5 @@
 ---
-title: 【GMS】简单的文本渲染引擎——动画与颜色
+title: 【GMS】简易文本引擎——动画与颜色
 date: 2021-05-29 06:00:00 +0800
 categories: [game]
 tags: [game]

@@ -1,5 +1,5 @@
 ---
-title: 【GMS】简单的文本渲染引擎——对话框背景和换行滚动
+title: 【GMS】简易文本引擎——对话框背景和换行滚动
 date: 2021-05-30 23:30:00 +0800
 categories: [game]
 tags: [game]
